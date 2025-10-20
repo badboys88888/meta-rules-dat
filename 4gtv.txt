@@ -1,11 +1,14 @@
-# 当前规则
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
-# ... 其他规则
-
-# 可选的补充规则
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,skyking.com.tw
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,hamifans.emome.net
+DOMAIN,4gtvfreepc-cds.cdn.hinet.net
+DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
+DOMAIN,4gtvpc-cds.cdn.hinet.net
+DOMAIN,4gtvpcvod-cds.cdn.hinet.net
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-KEYWORD,4gtv
-DOMAIN-KEYWORD,gtv
-IP-CIDR,203.69.0.0/16
-IP-CIDR,210.200.0.0/16
