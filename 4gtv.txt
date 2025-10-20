@@ -1,0 +1,11 @@
+# 当前规则
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
+# ... 其他规则
+
+# 可选的补充规则
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,gtv
+IP-CIDR,203.69.0.0/16
+IP-CIDR,210.200.0.0/16
