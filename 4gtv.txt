@@ -12,3 +12,5 @@ DOMAIN,4gtvpc-cds.cdn.hinet.net
 DOMAIN,4gtvpcvod-cds.cdn.hinet.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,litv
+DOMAIN-KEYWORD,hinet
