@@ -1,1 +1,3 @@
 DOMAIN-SUFFIX,singteltvgo.com
+DOMAIN-SUFFIX,astro.com.my
+DOMAIN-SUFFIX,starhubgo.com
