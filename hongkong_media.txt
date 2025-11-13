@@ -15,7 +15,8 @@ DOMAIN-SUFFIX,hk07.com
 DOMAIN-SUFFIX,hk08.com
 DOMAIN-SUFFIX,hk09.com
 DOMAIN-SUFFIX,hk10.com
-
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,nowestatic.com
 # 特定域名
 DOMAIN,api.viu.now.com
 DOMAIN,seaovers.live
