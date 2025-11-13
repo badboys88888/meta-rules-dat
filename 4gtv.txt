@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,abema.
 DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,onead.com.tw
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ftv.com.tw
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,litv
 DOMAIN-KEYWORD,hinet
